@@ -15,8 +15,8 @@ const Portfolio = () => {
     {
       id: 3,
       src: bewakoof,
-      code: "https://github.com/hitesht4/Bevakoof",
-      demo: "https://bkf-eight.vercel.app/",
+      code: "https://github.com/hitesht4/Bewakoof.com-Clone",
+      demo: "https://bewakoof-delta.vercel.app/",
     },
     ,
     {

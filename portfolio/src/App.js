@@ -5,17 +5,17 @@ import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
+import styles from "./components/App.module.css";
 
 function App() {
   return (
-    <div>
+    <div className={styles.Margins}>
       <NavBar />
       <Home />
       <About />
       <Portfolio />
       <Experience />
       <Contact />
-
       <SocialLinks />
     </div>
   );
